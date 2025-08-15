@@ -36,7 +36,7 @@
 ### 📫 Connect with Me
 <p align="center">
   <a href="mailto:miladazizi95@icloud.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="https://instagram.com/miladazizima" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/miladazizima" target="_blank"><img src="https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 <!--
 **Miladaziziforge/Miladaziziforge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
