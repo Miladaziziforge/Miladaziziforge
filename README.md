@@ -31,9 +31,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/Miladaziziforge/Miladaziziforge/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ### 📫 Connect with Me
