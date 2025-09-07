@@ -7,7 +7,7 @@
 ### 🚀 About Me
 - 💻 Skills: **HTML, CSS, JavaScript**
 - 📚 Currently learning: **React & Node.js**
-- 🌍 Languages: English , spanish, Persian, Turkish, kurdish , Arabic, Azerbaijani 
+- 🌍 Languages: English , Spanish, Persian, Turkish, kurdish , Arabic, Azerbaijani 
 - 🎯 Goal: Build professional projects and land a software developer role
 
 ---
